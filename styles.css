@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    font-family: 'Dancing Script', cursive;
+}
+
 #txt-input ,#output{
     
     width: 30%;
