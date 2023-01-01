@@ -1,0 +1,8 @@
+#txt-input ,#output{
+    
+    width: 30%;
+    height: 20vh;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
