@@ -2,12 +2,32 @@
 
 body{
     font-family: 'Dancing Script', cursive;
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
+
+.header{
+background-color:#fef08a ;
+height: 10vh;
+font-size: 2rem;
+text-align:center ;
+font-weight: bolder;
+padding-top: 10px;
+}
+.main-content{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
 
 #txt-input ,#output{
     
-    width: 30%;
-    height: 20vh;
+    width: 20%;
+    height: 15vh;
     border: 1px solid black;
     margin: 1rem;
     padding: 1rem;
